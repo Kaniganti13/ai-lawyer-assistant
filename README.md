@@ -157,15 +157,6 @@ To keep the repository lightweight and maintain faster cloning and better perfor
 
 ---
 
-## 👩‍💻 Author
-
-Kaniganti Roshita
-
-GitHub:
-https://github.com/Kaniganti13
-
----
-
 ## ⭐ Support
 
 If you like this project, consider giving it a star on GitHub.
